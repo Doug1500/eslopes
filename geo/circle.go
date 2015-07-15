@@ -68,6 +68,7 @@ func (o *Circle) Init(xc []float64, r float64) {
 //                       /
 //                   pa o
 //
+//
 //  Input:
 //   pa, pb -- two points on line
 //  Output:
